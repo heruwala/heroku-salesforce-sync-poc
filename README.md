@@ -1,4 +1,4 @@
-# no-local-dev-getting-started
+# heroku-postgres-salesforce-sync-getting-started
 
 This application that can be used to sync (and then view) data from Salesforce using Heroku Connect.
 
