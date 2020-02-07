@@ -21,3 +21,6 @@ If you are not yet a Heroku verified account holder, clicking the Heroku button 
 After you verify your Heroku account, clicking the Heroku button will create an app, a database, and a demo instance of Heroku Connect.  Following the resulting link will guide you through final configuration in the Heroku Connect UI.
 
 Please make sure that you are in the intended Heroku app context, as you may not be defaulted to the new Heroku Connect app if you have multiple instances already running.
+
+# Deployed App
+[App showing synced contacts from postgres](https://ecfmg-salesforce-sync-poc.herokuapp.com/contacts)
